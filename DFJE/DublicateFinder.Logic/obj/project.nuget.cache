@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3rIoPvKtfltYn/4E7lICWoVxlNkUr/E5xZt5us23SRkq1yy8n3g32sE32Ld9J48D0xUeKWHLSwr/J1s0aMtaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joram Erbarth\\Documents\\DFJE\\DFJE\\DuplicateFinder.Logic\\DuplicateFinder.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joram Erbarth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Joram Erbarth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
