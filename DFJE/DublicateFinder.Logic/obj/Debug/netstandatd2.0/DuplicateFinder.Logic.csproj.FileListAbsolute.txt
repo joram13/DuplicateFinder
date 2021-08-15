@@ -1,0 +1,8 @@
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\bin\Debug\netstandard2.0\DuplicateFinder.Logic.deps.json
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\bin\Debug\netstandard2.0\DuplicateFinder.Logic.dll
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\bin\Debug\netstandard2.0\DuplicateFinder.Logic.pdb
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\obj\Debug\netstandard2.0\DuplicateFinder.Logic.AssemblyInfoInputs.cache
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\obj\Debug\netstandard2.0\DuplicateFinder.Logic.AssemblyInfo.cs
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\obj\Debug\netstandard2.0\DuplicateFinder.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\obj\Debug\netstandard2.0\DuplicateFinder.Logic.dll
+C:\Users\Joram Erbarth\Documents\DFJE\DuplicateFinder.Logic\obj\Debug\netstandard2.0\DuplicateFinder.Logic.pdb
